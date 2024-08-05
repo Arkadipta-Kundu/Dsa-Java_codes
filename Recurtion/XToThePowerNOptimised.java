@@ -1,5 +1,3 @@
-package Recurtion;
-
 public class XToThePowerNOptimised {
     public static int xPownOpt(int x, int n) {
         int xn;

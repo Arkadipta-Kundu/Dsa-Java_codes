@@ -1,5 +1,3 @@
-package Recurtion;
-
 public class XToThePowerN {
     public static int xPown(int x, int n) {
         if (n == 0) {

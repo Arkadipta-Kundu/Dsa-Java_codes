@@ -1,8 +1,7 @@
-package opps;
 
 class Account {
     public String name;
-    
+
     private String password;
 
     public String getPassword() {
@@ -13,6 +12,7 @@ class Account {
         this.password = pass;
     }
 }
+
 public class Bank {
     public static void main(String[] args) {
         Account account1 = new Account();

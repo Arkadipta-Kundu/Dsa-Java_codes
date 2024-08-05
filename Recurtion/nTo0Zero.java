@@ -1,5 +1,3 @@
-package Recurtion;
-
 public class nTo0Zero {
 
     public static void main(String[] args) {

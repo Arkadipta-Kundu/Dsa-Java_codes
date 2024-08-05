@@ -1,5 +1,3 @@
-package Sorting;
-
 public class BubbleSort {
     public static void main(String args[]) {
         int arr[] = { 1, 6, 5, 3, 8, 2, 4 };

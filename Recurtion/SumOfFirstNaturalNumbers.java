@@ -1,5 +1,3 @@
-package Recurtion;
-
 public class SumOfFirstNaturalNumbers {
     public static void sum(int i, int n, int sum) {
         if (i==n) {

@@ -1,4 +1,4 @@
-package opps;
+
 
 interface vehicle {
     void wheels();
